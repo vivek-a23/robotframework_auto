@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+#Robot
+
+*.xml
+*.html
+*.log
+*.png
+*.pyc
+*.DS_Store
+
 # Distribution / packaging
 .Python
 build/
